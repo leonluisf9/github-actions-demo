@@ -7,7 +7,6 @@ on:
     branches:
       - develop
       - staging
-      - main
 
 # Jobs to carry out
 jobs:
